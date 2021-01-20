@@ -6,3 +6,4 @@ alpaca_trade_api==0.51.0
 pytz==2020.1
 mplfinance==0.12.7a4
 Pillow==8.1.0
+ffmpeg==1.4
